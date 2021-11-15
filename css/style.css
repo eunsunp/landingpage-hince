@@ -63,6 +63,12 @@ header.masthead {
       color: #fff;
   }
 
+  .modal-text {
+      padding: 20px;
+      font-size: .8rem;
+      line-height: 1.6;
+  }
+
     /* section02 */
   #page-section {
       width: 100%;
