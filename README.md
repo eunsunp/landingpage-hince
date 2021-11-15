@@ -1,2 +1,2 @@
-# landingpage-hince
+# hince
  
