@@ -519,6 +519,7 @@ header.masthead {
 
 .footer-icon {
     cursor: pointer;
+    margin: 10px 0;
 }
 
 .share-text {
